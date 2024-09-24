@@ -42,4 +42,12 @@ El proyecto está organizado en varios archivos para facilitar su mantenimiento 
    ```bash
    python main.py
 
-Este proyecto está licenciado bajo la MIT License - consulta el archivo LICENSE para más detalles.
+## 📝 Licencia
+
+Este proyecto está disponible únicamente para uso **docente** y con fines de aprendizaje. No está permitido utilizar los archivos de sonido incluidos en este proyecto sin el consentimiento expreso del autor.
+
+### Condiciones:
+- El código fuente de este proyecto puede ser usado, modificado y distribuido solo con fines educativos.
+- **No se permite** el uso de los archivos de sonido para ningún propósito, comercial o no comercial, sin el permiso del autor.
+
+Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por favor contacta conmigo.
