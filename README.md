@@ -14,6 +14,7 @@ El proyecto está organizado en varios archivos para facilitar su mantenimiento 
 - **pelota.py**: Maneja la lógica de la pelota, incluyendo su movimiento y colisiones.
 - **paleta.py**: Controla las paletas de los jugadores.
 - **marcador.py**: Muestra y actualiza el puntaje de los jugadores.
+- **sounds.py**: Contiene la ruta de los archivos de audio y una función sencilla para su reproducción.
 - **sonidos/**: Carpeta donde se encuentran los efectos de sonido para el juego (rebote, nuevo punto, etc.).
 
 ## 🚀 Funcionalidades
