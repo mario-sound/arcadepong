@@ -31,15 +31,15 @@ El proyecto está organizado en varios archivos para facilitar su mantenimiento 
 ## 🛠️ Instalación y Ejecución
 
 1. Clona este repositorio:
-   ```bash
+   ```bash```
    git clone https://github.com/tu-usuario/arcade-pong.git
    
 2. Instala las dependencias necesarias (si las hubiera):
-  ```bash
+  ```bash```
   pip install -r requirements.txt
 
 3. Ejecuta el juego:
-  ```bash
+  ```bash```
   python main.py
 
 Este proyecto está licenciado bajo la MIT License - consulta el archivo LICENSE para más detalles.
